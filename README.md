@@ -3,9 +3,9 @@
   <strong>I develop in PHP, NODEJS, JAVASCRIPT languages and I also do structure and page style (HTML&CSS).</strong>
 </h3>
 <h1 align="left"><strong> My Project</strong></h1>
-**
-Smart-OverWrite - server management panel Garry’s Mod - https://smart-overwrite.net
-Smart-Bot - Automatic discord bot management - https://smart-bot.me
-**
+<ul>
+  <li>Smart-OverWrite - server management panel Garry’s Mod - https://smart-overwrite.net</li>
+  <li>Smart-Bot - Automatic discord bot management - https://smart-bot.me</li>
+</ul>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=TrackZoneV2)
