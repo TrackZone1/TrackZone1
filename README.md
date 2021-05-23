@@ -3,6 +3,10 @@
   <strong>Mastery of programming languages</strong>
 </h3>
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_64x64.png">
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png">
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_64x64.png">
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_64x64.png">
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/lua/lua_64x64.png">
 <h1 align="left"><strong> My Project</strong></h1>
 <ul>
   <li>Smart-OverWrite - server management panel Garry’s Mod - https://smart-overwrite.net</li>
