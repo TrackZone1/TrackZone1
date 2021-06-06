@@ -11,7 +11,7 @@
 </div>
 <h1 align="left"><strong> My Project</strong></h1>
 <ul>
-  <li>Smart-OverWrite - server management panel Garry’s Mod - https://smart-overwrite.net</li>
+  <li>Smart-OverWrite - Server management panel Garry’s Mod - https://smart-overwrite.net</li>
   <li>VirtualServ - Virtual Host - https://virtualserv.fr</li>
   <li>Smart-Bot - Automatic discord bot management - https://smart-bot.me</li>
 </ul>
