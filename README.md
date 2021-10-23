@@ -16,4 +16,8 @@
   <li>Smart-Bot - Automatic discord bot management - https://smart-bot.me</li>
 </ul>
 
+<h1 align="left"><strong> Contact</strong></h1>
+
+<img src="https://discord.c99.nl/widget/theme-1/882018737014841435.png" height="80">
+
 ![](https://visitor-badge.glitch.me/badge?page_id=TrackZoneV2)
