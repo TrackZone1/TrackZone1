@@ -1,4 +1,5 @@
 <h1 align="left"><strong> Hello There, I'm <a href="https://smart-bot.me">TrackZone.</a></strong></h1>
+<p>I like to develop a little bit of everything, but what I prefer is automation, the challenge of circumventing anti-bot protections, I specialized in autoditacte to understand detection systems and understand their vulnerabilities, I have with me an arsenal of technique acquired personally but I also have a relentless team with real determination of knowledge. Together we form a truly strategic team.</p>
 <h3 align="left">
   <strong>Mastery of programming languages</strong>
 </h3>
