@@ -11,7 +11,9 @@
   <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/lua/lua_64x64.png">
 </div>
 
-! [Statistiques de votre référentiel] https://github-readme-stats.vercel.app/api?username=TrackZoneV2&show_icons=true
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=TrackZoneV2&show_icons=true">
+</p>
 
 <h1 align="left"><strong> My Project</strong></h1>
 <ul>
