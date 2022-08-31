@@ -10,6 +10,9 @@
   <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_64x64.png">
   <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/lua/lua_64x64.png">
 </div>
+
+! [Statistiques de votre référentiel] https://github-readme-stats.vercel.app/api?username=TrackZoneV2&show_icons=true
+
 <h1 align="left"><strong> My Project</strong></h1>
 <ul>
   <li>Smart-Bot - Automatic discord bot management - https://smart-bot.me ✅ Project Open</li>
