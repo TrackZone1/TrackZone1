@@ -1,7 +1,8 @@
 <h1 align="left"><strong> Hello There, I'm <a href="https://smart-bot.me">TrackZone.</a></strong></h1>
-<h3 align="left">
+<h3 align="center">
   <strong>🛠 Most used languages</strong>
 </h3>
+
 <div align="center">
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/html.png" width="64px">
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/css.png" width="64px">
@@ -9,7 +10,6 @@
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/nodejs.png" width="64px">
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/php.png" width="64px">
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/lua.png" width="64px">
-
 </div>
 
 <br>
@@ -22,7 +22,7 @@
 <ul>
   <li>Smart-Bot - Automatic discord bot management - https://smart-bot.me ✅ Project Open</li>
   <li>VirtualServ - Virtual Host - https://virtualserv.fr ✅ Project Open</li>
-  <li>Smart-OverWrite - Server management panel Garry’s Mod - https://smart-overwrite.net ⛔️ Project Close</li>
+  <li>Smart-OverWrite - Server management panel Garry’s Mod ⛔️ Project Close</li>
 </ul>
 
 <h1 align="left"><strong> Contact</strong></h1>
