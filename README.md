@@ -1,13 +1,15 @@
 <h1 align="left"><strong> Hello There, I'm <a href="https://smart-bot.me">TrackZone.</a></strong></h1>
 <h3 align="left">
-  <strong>Mastery of programming languages</strong>
+  <strong>🛠 Most used languages</strong>
 </h3>
 <div align="center">
-  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_64x64.png">
-  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png">
-  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_64x64.png">
-  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_64x64.png">
-  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/lua/lua_64x64.png">
+  <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/html.png" width="64px">
+  <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/css.png" width="64px">
+  <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/js.png" width="64px">
+  <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/nodejs.png" width="64px">
+  <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/php.png" width="64px">
+  <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/lua.png" width="64px">
+
 </div>
 
 <br>
