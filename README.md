@@ -14,6 +14,17 @@
 
 <br>
 
+<h3 align="center">
+  <strong>🥰 My favorite text editors</strong>
+</h3>
+
+<div align="center">
+  <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/vscode.png" width="64px">
+  <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/stext3.png" width="64px">
+</div>
+
+<br>
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=TrackZoneV2&show_icons=true&theme=dracula">
 </p>
