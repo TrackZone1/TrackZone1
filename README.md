@@ -4,7 +4,7 @@
   <strong>🛠 Most used languages</strong>
 </h3>
 
-<div align="center">
+<div align="left" style="margin-bottom: 15px">
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/html.png" width="64px">
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/css.png" width="64px">
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/js.png" width="64px">
@@ -13,13 +13,12 @@
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/lua.png" width="64px">
 </div>
 
-<br>
-
-<h3 align="center">
+<h3 align="right">
   <strong>🥰 My favorite text editors</strong>
 </h3>
 
-<div align="center">
+<h3 align="left">
+  <strong>🥰 My favorite text editors</strong>
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/vscode.png" width="64px">
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/stext3.png" width="64px">
 </div>
