@@ -1,4 +1,4 @@
-<img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/banner.png" width="100%">
+<img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/banner.png" width="100%" style="border-radius:30px">
 
 <h3 align="left">
   <strong>🧠 Most used languages</strong>
