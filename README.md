@@ -20,6 +20,8 @@
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/540px-Npm-logo.svg.png" width="64px" height="64px">
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/puppeteer.png" width="64px" height="64px">
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/Electron_Software_Framework_Logo.svg.png" width="64px" height="64px">
+  <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/Crystal_Project_ksirtet.png" width="64px" height="64px">
+  <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/1200px-FileZilla_logo.svg.png" width="64px" height="64px">
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/vscode.png" width="64px" height="64px">
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/stext3.png" width="64px" height="64px">
 </div>
