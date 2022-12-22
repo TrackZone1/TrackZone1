@@ -1,10 +1,19 @@
+<style>
+h3 {
+ margin: 5px;
+}
+div {
+  margin-bottom: 15px
+}
+</style>
+
 <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/banner.png" width="100%">
 
 <h3 align="center">
   <strong>🛠 Most used languages</strong>
 </h3>
 
-<div align="left" style="margin-bottom: 15px">
+<div align="left">
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/html.png" width="64px">
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/css.png" width="64px">
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/js.png" width="64px">
@@ -23,11 +32,7 @@
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/stext3.png" width="64px">
 </div>
 
-<br>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TrackZoneV2&show_icons=true&theme=dracula">
-</p>
 
 <h1 align="left"><strong> Contact</strong></h1>
 
