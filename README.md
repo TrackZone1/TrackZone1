@@ -18,7 +18,7 @@
 </h3>
 <div align="right">
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/icons8-npm-96.png" width="64px" height="64px">
-  <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/png-transparent-jquery-hd-logo.png" width="64px" height="64px">
+  <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/kisspng-jquery-web-development-ajax-event-php-ajax-5b111dfdc40565.0540752515278484458029.png" width="64px" height="64px">
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/puppeteer.png" width="64px" height="64px">
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/Electron_Software_Framework_Logo.svg.png" width="64px" height="64px">
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/Crystal_Project_ksirtet.png" width="64px" height="64px">
