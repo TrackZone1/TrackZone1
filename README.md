@@ -1,4 +1,5 @@
-<h1 align="left"><strong> Hello There, I'm <a href="#">TrackZone.</a></strong></h1>
+<img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/banner.png" width="100%">
+
 <h3 align="center">
   <strong>🛠 Most used languages</strong>
 </h3>
