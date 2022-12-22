@@ -22,7 +22,9 @@
 </div>
 
 <h3 align="left">
-  <strong>🥰 My favorite text editors</strong>
+ <strong>🥰 My favorite text editors</strong>
+</h3>
+<div align="left">
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/vscode.png" width="64px">
   <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/stext3.png" width="64px">
 </div>
