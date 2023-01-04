@@ -30,6 +30,6 @@
 
 <h1 align="left"><strong> Contact</strong></h1>
 
-<img src="https://discord.c99.nl/widget/theme-1/882018737014841435.png" height="80">
+[![Discord Presence](https://lanyard.cnrad.dev/api/882018737014841435)](https://discord.com/users/882018737014841435)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=TrackZoneV2)
