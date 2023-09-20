@@ -24,6 +24,7 @@
 <p>
   <img src="https://img.shields.io/badge/EXPRESS-080b0f?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
   <img src="https://img.shields.io/badge/NGINX-009900?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/>
+  <img src="https://img.shields.io/badge/BUN-a9a9a9?style=for-the-badge&logo=bun&logoColor=white" alt="bun"/>
   <img src="https://img.shields.io/badge/NODEJS-83cd29?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
   <img src="https://img.shields.io/badge/OPENRESTY-b0fe8d?style=for-the-badge&logo=openresty&logoColor=white" alt="openresty"/>
   <img src="https://img.shields.io/badge/CADDY-144866?style=for-the-badge&logo=caddy&logoColor=white" alt="caddy"/>
@@ -53,7 +54,6 @@
 
 <h3 align="left">Others</h3>
 <p>
-  <img src="https://img.shields.io/badge/BUN-a9a9a9?style=for-the-badge&logo=bun&logoColor=white" alt="bun"/>
   <img src="https://img.shields.io/badge/GIT-f03c2e?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" alt="linux"/>
 </p>
