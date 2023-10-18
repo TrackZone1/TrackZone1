@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm TrackZone</h1>
 <h3 align="center">I'm a developer who specializes in the Web and everything that has to do with it.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trackzonev2&label=Profile%20views&color=0e75b6&style=flat" alt="trackzonev2" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trackzone1&label=Profile%20views&color=0e75b6&style=flat" alt="trackzone1" /> </p>
 
 <h3 align="left">Programming Languages</h3>
 <p>
@@ -59,5 +59,5 @@
   <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" alt="linux"/>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trackzonev2&show_icons=true&locale=en" alt="trackzonev2" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trackzone1&show_icons=true&locale=en" alt="trackzone1" /></p>
 
