@@ -35,6 +35,7 @@
 <p>
   <img src="https://img.shields.io/badge/MARIADB-363c4c?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb"/>
   <img src="https://img.shields.io/badge/MYSQL-00618a?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <img src="https://img.shields.io/badge/MONGODB-00684a?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
 </p>
 
 <h3 align="left">Data Visualization</h3>
