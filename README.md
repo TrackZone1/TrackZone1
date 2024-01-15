@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm TrackZone</h1>
 <h3 align="center">I'm a developer who specializes in the Web and everything that has to do with it.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trackzone1&label=Profile%20views&color=0e75b6&style=flat" alt="trackzone1" /> </p>
-
 <h3 align="left">Programming Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
