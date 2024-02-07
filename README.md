@@ -55,6 +55,7 @@
 <h3 align="left">Others</h3>
 <p>
   <img src="https://img.shields.io/badge/GIT-f03c2e?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  <img src="https://img.shields.io/badge/DOCKER-1d63ed?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
   <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" alt="linux"/>
 </p>
 
