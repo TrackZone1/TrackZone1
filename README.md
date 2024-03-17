@@ -1,7 +1,6 @@
 <img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/banner.png" width="100%">
 
 <h1 align="center">Hi 👋, I'm TrackZone</h1>
-<h3 align="center">I'm a developer who specializes in the Web and everything that has to do with it.</h3>
 
 <h3 align="left">Programming Languages</h3>
 <p>
