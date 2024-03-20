@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/NODEJS-83cd29?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
   <img src="https://img.shields.io/badge/OPENRESTY-b0fe8d?style=for-the-badge&logo=openresty&logoColor=white" alt="openresty"/>
   <img src="https://img.shields.io/badge/PRISMA-1a202c?style=for-the-badge&logo=prisma&logoColor=white" alt="prisma"/>
+  <img src="https://img.shields.io/badge/MONGOOSE-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="mongoose"/>
 </p>
 
 <h3 align="left">Database</h3>
