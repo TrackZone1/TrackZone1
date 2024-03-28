@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
   <img src="https://img.shields.io/badge/BOOTSTRAP-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
   <img src="https://img.shields.io/badge/REACT-149eca?style=for-the-badge&logo=react&logoColor=white" alt="react"/>
-  <img src="https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/>
   <img src="https://img.shields.io/badge/SASS-bf6090?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
 </p>
 
