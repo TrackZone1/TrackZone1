@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
   <img src="https://img.shields.io/badge/BOOTSTRAP-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-  <img src="https://img.shields.io/badge/TAILWIND-0ea5e9?style=for-the-badge&logo=tailwind&logoColor=white" alt="tailwind"/>
+  <img src="https://img.shields.io/badge/TAILWIND-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind"/>
   <img src="https://img.shields.io/badge/REACT-149eca?style=for-the-badge&logo=react&logoColor=white" alt="react"/>
   <img src="https://img.shields.io/badge/SASS-bf6090?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
 </p>
