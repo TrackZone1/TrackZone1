@@ -61,5 +61,18 @@
   <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" alt="linux"/>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trackzone1&show_icons=true&locale=en" alt="trackzone1" /></p>
+<p align="center">
+  <a href="https://discord.com/users/222599805413752832"><img src="https://lanyard.cnrad.dev/api/222599805413752832?theme=" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=trackzone1&show_icons=true&locale=en" alt="trackzone1" />
+</p>
+
+<h3 align="left">My Projects</h3>
+
+| KeterX | 1337.LEGAL | SmartProxy | 
+|--------|------------|------------|
+| ![keterx](https://github.com/TrackZone1/TrackZone1/blob/main/assets/img/keterx.png?raw=true) | ![1337legal](https://github.com/TrackZone1/TrackZone1/blob/main/assets/img/1337legal.png?raw=true) | ![smartproxy](https://github.com/TrackZone1/TrackZone1/blob/main/assets/img/smartproxy.png?raw=true) |
+
+| KeterSafe | VirtualServ | SmartBot |
+|-----------|-------------|----------|
+![ketersafeDash](https://github.com/TrackZone1/TrackZone1/blob/main/assets/img/ketersafeDashboard.png?raw=true) | ![virtualserv](https://github.com/TrackZone1/TrackZone1/blob/main/assets/img/virtualserv.png?raw=true) | ![smartbot](https://github.com/TrackZone1/TrackZone1/blob/main/assets/img/smartbot.png?raw=true) |
 
