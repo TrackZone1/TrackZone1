@@ -28,3 +28,8 @@
 |-----------|-------------|----------|
 ![ketersafeDash](https://github.com/TrackZone1/TrackZone1/blob/main/assets/img/ketersafeDashboard.png?raw=true) | ![virtualserv](https://github.com/TrackZone1/TrackZone1/blob/main/assets/img/virtualserv.png?raw=true) | ![smartbot](https://github.com/TrackZone1/TrackZone1/blob/main/assets/img/smartbot.png?raw=true) |
 
+<h3 align="left">Security & Hacking</h3>
+
+<a href="https://www.root-me.org/TrackZone">
+    <img src="https://www.root-me.org/IMG/logo_rootme.png" width="40" height="40">
+</a>
