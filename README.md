@@ -30,6 +30,6 @@
 
 <h3 align="left">Security & Hacking</h3>
 
-<a href="https://www.root-me.org/TrackZone">
+<a href="https://www.root-me.org/TrackZone" target="_blank">
     <img src="https://www.root-me.org/IMG/logo_rootme.png" width="40" height="40">
 </a>
