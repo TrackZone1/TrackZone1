@@ -1,4 +1,4 @@
-<img src="https://github.com/TrackZoneV2/TrackZoneV2/blob/main/icons/banner.png" width="100%">
+![banner](https://github.com/user-attachments/assets/57390423-e689-447a-bb3c-c3a55680e1fb)
 
 <h1 align="center">Hi 👋, I'm TrackZone</h1>
 
