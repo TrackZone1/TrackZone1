@@ -15,10 +15,6 @@
 | Others | ![git](https://img.shields.io/badge/GIT-f03c2e?style=for-the-badge&logo=git&logoColor=white) ![docker](https://img.shields.io/badge/DOCKER-1d63ed?style=for-the-badge&logo=docker&logoColor=white) ![linux](https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white) |
 | Web3 Libraries | ![web3.js](https://img.shields.io/badge/WEB3.JS-7e7f83?style=for-the-badge&logo=web3.js&logoColor=white) ![ethers.js](https://img.shields.io/badge/ETHERS-25359d?style=for-the-badge&logo=ethers&logoColor=white) |
 
-| Discord Status |
-|----------------|
-| [![Discord Presence](https://lanyard.cnrad.dev/api/222599805413752832)](https://discord.com/users/222599805413752832)|
-
 <h3 align="left">My Projects</h3>
 
 | KeterX | 1337.LEGAL | SmartProxy | 
