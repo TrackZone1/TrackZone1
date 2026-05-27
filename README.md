@@ -15,18 +15,11 @@
 | Others | ![git](https://img.shields.io/badge/GIT-f03c2e?style=for-the-badge&logo=git&logoColor=white) ![docker](https://img.shields.io/badge/DOCKER-1d63ed?style=for-the-badge&logo=docker&logoColor=white) ![linux](https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white) |
 | Web3 Libraries | ![web3.js](https://img.shields.io/badge/WEB3.JS-7e7f83?style=for-the-badge&logo=web3.js&logoColor=white) ![ethers.js](https://img.shields.io/badge/ETHERS-25359d?style=for-the-badge&logo=ethers&logoColor=white) |
 
-<h3 align="left">My Projects</h3>
-
-| KeterX | 1337.LEGAL | SmartProxy | 
-|--------|------------|------------|
-| ![keterx](https://github.com/TrackZone1/TrackZone1/blob/main/assets/img/keterx.png?raw=true) | ![1337legal](https://github.com/TrackZone1/TrackZone1/blob/main/assets/img/1337legal.png?raw=true) | ![smartproxy](https://github.com/TrackZone1/TrackZone1/blob/main/assets/img/smartproxy.png?raw=true) |
-
-| KeterSafe | VirtualServ | SmartBot |
-|-----------|-------------|----------|
-![ketersafeDash](https://github.com/TrackZone1/TrackZone1/blob/main/assets/img/ketersafeDashboard.png?raw=true) | ![virtualserv](https://github.com/TrackZone1/TrackZone1/blob/main/assets/img/virtualserv.png?raw=true) | ![smartbot](https://github.com/TrackZone1/TrackZone1/blob/main/assets/img/smartbot.png?raw=true) |
-
 <h3 align="left">Security & Hacking</h3>
 
-<a href="https://www.root-me.org/TrackZone" target="_blank">
-    <img src="https://www.root-me.org/IMG/logo_rootme.png" width="40" height="40">
+<a href="https://www.root-me.org/TrackZone" target="_blank" style="text-decoration: none; margin-right: 15px;">
+    <img src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" width="40" height="40" alt="Root-Me Profil" valign="middle">
+</a>
+<a href="https://ctf.404ctf.fr/users/1558" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/404_CTF-Top_200-000000?style=for-the-badge&logo=target&logoColor=red" height="40" alt="404 CTF Top 200" valign="middle">
 </a>
